@@ -2073,7 +2073,6 @@ section,
   transition: all 0.3s ease;
   text-decoration: none;
 }
-
 .portfolio .portfolio-card .portfolio-image-container .portfolio-overlay .portfolio-actions a:hover {
   background-color: var(--accent-color);
   color: var(--contrast-color);
